@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "262961582591",
+    "project_id": "kladishoes-9648c",
+    "storage_bucket": "kladishoes-9648c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262961582591:android:237277fe8e64c3610657ca",
+        "android_client_info": {
+          "package_name": "com.sam.kladishoes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262961582591-434fsb949vbn0aghtsjttjmukf0ktphu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJXDRyJXCUxrRZuIj7SuL5AwVSWL_7vDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262961582591-434fsb949vbn0aghtsjttjmukf0ktphu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
